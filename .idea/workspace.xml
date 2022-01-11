@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aafb5b3e-ad5c-4c66-8841-6faede2b341d" name="Changes" comment="" />
+    <list default="true" id="aafb5b3e-ad5c-4c66-8841-6faede2b341d" name="Changes" comment="add homework 1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,6 +37,14 @@
     </key>
   </component>
   <component name="TaskManager">
+    <task id="LOCAL-00001" summary="add homework 1">
+      <created>1641905243158</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1641905243158</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -52,5 +60,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add homework 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="add homework 1" />
   </component>
 </project>
