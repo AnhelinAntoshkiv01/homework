@@ -1,0 +1,77 @@
+.a{
+    background: silver;
+    box-sizing: border-box;
+    padding: 30px;
+    margin: 50px auto;
+    width: 750px;
+}
+.b{
+    display: inline-block;
+    background: coral;
+    width: 200px;
+    height: 200px;
+    box-sizing: border-box;
+    border: 1px solid black;
+    box-shadow: black 15px 15px;
+    text-align: center;
+    padding: 85px;
+}
+.c{
+    display: inline-block;
+    background: coral;
+    width: 200px;
+    height: 200px;
+    box-sizing: border-box;
+    border: 1px solid black;
+    box-shadow: black 15px 15px 8px;
+    text-align: center;
+    margin: 30px;
+    padding: 85px;
+}
+.d{
+    display: inline-block;
+    background: coral;
+    width: 200px;
+    height: 200px;
+    box-sizing: border-box;
+    border: 1px solid black;
+    box-shadow: black 15px 15px 8px 7px;
+    text-align: center;
+    padding: 85px;
+}
+.e{
+    display: inline-block;
+    background: coral;
+    width: 200px;
+    height: 200px;
+    box-sizing: border-box;
+    border: 1px solid black;
+    box-shadow: dimgray 15px 15px;
+    text-align: center;
+    padding: 85px;
+}
+.f{
+    display: inline-block;
+    background: coral;
+    width: 200px;
+    height: 200px;
+    box-sizing: border-box;
+    border: 1px solid black;
+    box-shadow: black 15px 15px 8px;
+    text-align: center;
+    border-radius: 10px;
+    margin: 30px;
+    padding: 85px;
+}
+.g{
+    display: inline-block;
+    background: coral;
+    width: 200px;
+    height: 200px;
+    box-sizing: border-box;
+    border: 1px solid black;
+    box-shadow: dimgray 15px 15px 5px 5px;
+    text-align: center;
+    border-radius: 10px;
+    padding: 85px;
+}
