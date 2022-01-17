@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>box</title>
+    <style>
+        #target{
+            margin-top: 300px;
+            margin-left: 700px;
+        }
+        .a{
+            width: 500px;
+            height: 50px;
+            box-sizing: border-box;
+            color: white;
+            text-align: center;
+            background: darkgreen;
+            padding: 12px;
+            display: flex;
+            justify-content: center;
+        }
+        .b{
+            width: 500px;
+            height: 30px;
+            box-sizing: border-box;
+            color: white;
+            text-align: center;
+            background: darkslategrey;
+            padding: 5px;
+            display: flex;
+            justify-content: center;
+        }
+        #wrap{
+            display: flex;
+            width: 500px;
+            height: 300px;
+        }
+        .c{
+            width: 260px;
+            height: 300px;
+            box-sizing: border-box;
+            color: white;
+            text-align: center;
+            background: forestgreen;
+            padding: 120px;
+        }
+        .d{
+            width: 240px;
+            height: 300px;
+            box-sizing: border-box;
+            color: white;
+            text-align: center;
+            background: greenyellow;
+            padding: 120px;
+        }
+        .e{
+            width: 500px;
+            height: 50px;
+            box-sizing: border-box;
+            color: white;
+            text-align: center;
+            background: darkseagreen;
+            padding: 12px;
+            display: flex;
+            justify-content: center;
+        }
+    </style>
+</head>
+<body>
+<div id="target">
+    <div class="a">Header</div>
+    <div class="b">Nav</div>
+    <div id="wrap">
+        <div class="c">Main</div>
+        <div class="d">Aside</div>
+    </div>
+    <div class="e">Footer</div>
+</div>
+</body>
+</html>
