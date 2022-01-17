@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a8c9d227-6797-40ed-873b-7abe2d1805bf" name="Changes" comment="add hm2(1)">
+    <list default="true" id="a8c9d227-6797-40ed-873b-7abe2d1805bf" name="Changes" comment="add hm3">
+      <change afterPath="$PROJECT_DIR$/lesson 3/hm2(2).html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson 3/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson 3/hm3.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson 3/hm3.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +56,7 @@
       <updated>1642070486522</updated>
       <workItem from="1642070487761" duration="6256000" />
       <workItem from="1642341089563" duration="11000" />
-      <workItem from="1642420198825" duration="8182000" />
+      <workItem from="1642420198825" duration="9912000" />
     </task>
     <task id="LOCAL-00001" summary="add hm2(1)">
       <created>1642073274103</created>
@@ -85,7 +86,14 @@
       <option name="project" value="LOCAL" />
       <updated>1642426918072</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add hm3">
+      <created>1642428732747</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1642428732747</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,6 +113,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add hm2(2)" />
     <MESSAGE value="add hm2(1)" />
-    <option name="LAST_COMMIT_MESSAGE" value="add hm2(1)" />
+    <MESSAGE value="add hm3" />
+    <option name="LAST_COMMIT_MESSAGE" value="add hm3" />
   </component>
 </project>
