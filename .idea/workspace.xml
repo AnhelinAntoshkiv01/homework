@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a8c9d227-6797-40ed-873b-7abe2d1805bf" name="Changes" comment="add cw6">
-      <change afterPath="$PROJECT_DIR$/lesson 3/cw+.html" afterDir="false" />
+    <list default="true" id="a8c9d227-6797-40ed-873b-7abe2d1805bf" name="Changes" comment="add cw+">
+      <change afterPath="$PROJECT_DIR$/lesson 3/cw++.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,7 +56,7 @@
       <updated>1642070486522</updated>
       <workItem from="1642070487761" duration="6256000" />
       <workItem from="1642341089563" duration="11000" />
-      <workItem from="1642420198825" duration="20603000" />
+      <workItem from="1642420198825" duration="21795000" />
     </task>
     <task id="LOCAL-00001" summary="add hm2(1)">
       <created>1642073274103</created>
@@ -121,7 +121,14 @@
       <option name="project" value="LOCAL" />
       <updated>1642439454375</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="add cw+">
+      <created>1642441156492</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1642441156492</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -145,6 +152,7 @@
     <MESSAGE value="add hm2" />
     <MESSAGE value="add cw3" />
     <MESSAGE value="add cw6" />
-    <option name="LAST_COMMIT_MESSAGE" value="add cw6" />
+    <MESSAGE value="add cw+" />
+    <option name="LAST_COMMIT_MESSAGE" value="add cw+" />
   </component>
 </project>
