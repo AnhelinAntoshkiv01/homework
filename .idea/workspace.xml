@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a8c9d227-6797-40ed-873b-7abe2d1805bf" name="Changes" comment="add hm2(2)">
-      <change afterPath="$PROJECT_DIR$/lesson 3/hm2.html" afterDir="false" />
+    <list default="true" id="a8c9d227-6797-40ed-873b-7abe2d1805bf" name="Changes" comment="add hm2">
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson 3/cw3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson 3/hm4.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork.iml" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +42,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -55,7 +59,7 @@
       <updated>1642070486522</updated>
       <workItem from="1642070487761" duration="6256000" />
       <workItem from="1642341089563" duration="11000" />
-      <workItem from="1642420198825" duration="12161000" />
+      <workItem from="1642420198825" duration="16409000" />
     </task>
     <task id="LOCAL-00001" summary="add hm2(1)">
       <created>1642073274103</created>
@@ -99,7 +103,14 @@
       <option name="project" value="LOCAL" />
       <updated>1642430267912</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="add hm2">
+      <created>1642432553819</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1642432553819</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,6 +131,7 @@
     <MESSAGE value="add hm2(1)" />
     <MESSAGE value="add hm3" />
     <MESSAGE value="add hm2(2)" />
-    <option name="LAST_COMMIT_MESSAGE" value="add hm2(2)" />
+    <MESSAGE value="add hm2" />
+    <option name="LAST_COMMIT_MESSAGE" value="add hm2" />
   </component>
 </project>

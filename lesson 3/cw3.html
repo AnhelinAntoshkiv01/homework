@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>box</title>
+    <style>
+        #target{
+            width: 650px;
+            height: 650px;
+            box-sizing: border-box;
+            background: silver;
+            margin-left: 500px;
+            margin-top: 100px;
+            display: flex;
+            justify-content: center;
+        }
+        #container{
+            width: 600px;
+            height: 600px;
+            display: block;
+            justify-content: center;
+            box-sizing: border-box;
+            border: black solid 1px;
+            border-radius: 10px;
+            background: white;
+            margin-top: 20px;
+        }
+        .a{
+            width: 580px;
+            height: 100px;
+            background: silver;
+            text-align: center;
+            box-sizing: border-box;
+            margin-top: 10px;
+            margin-left: 10px;
+            margin-right: 10px;
+            padding: 40px;
+        }
+        .wrap{
+            display: block;
+            box-sizing: border-box;
+        }
+        .b{
+            width: 400px;
+            height: 200px;
+            background: silver;
+            text-align: center;
+            box-sizing: border-box;
+            margin: 10px;
+            padding: 90px;
+        }
+        .c{
+            width: 200px;
+            height: 470px;
+            background: silver;
+            text-align: center;
+            box-sizing: border-box;
+            margin-top: 10px;
+            margin-bottom: 10px;
+            margin-right: 10px;
+            padding-top: 230px;
+        }
+        #one{
+            display: flex;
+            justify-content: space-between;
+        }
+        .d{
+            width: 118px;
+            height: 260px;
+            background: silver;
+            text-align: center;
+            box-sizing: border-box;
+            padding-top: 100px;
+            margin-left: 10px;
+        }
+        .e{
+            width: 118px;
+            height: 260px;
+            background: silver;
+            text-align: center;
+            box-sizing: border-box;
+            padding-top: 100px;
+            margin-left: 22px;
+            margin-right: 22px;
+        }
+        .f{
+            width: 118px;
+            height: 260px;
+            background: silver;
+            text-align: center;
+            box-sizing: border-box;
+            padding-top: 100px;
+        }
+        .w{
+            display: flex;
+        }
+    </style>
+</head>
+<body>
+<div id="target">
+    <div id="container">
+        <div class="a">A</div>
+        <div id="one">
+            <div class="wrap">
+                <div class="b">B</div>
+                <div class="w">
+                    <div class="d">D</div>
+                    <div class="e">E</div>
+                    <div class="f">F</div>
+                </div>
+            </div>
+            <div class="c">C</div>
+        </div>
+    </div>
+</div>
+</body>
+</html>
