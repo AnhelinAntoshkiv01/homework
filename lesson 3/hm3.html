@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Box</title>
+    <style>
+        #box {
+            width: 600px;
+            height: 600px;
+            background: silver;
+            display: flex;
+            justify-content: center;
+            box-sizing: border-box;
+            padding: 20px;
+        }
+
+        #a {
+            width: 550px;
+            height: 550px;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-evenly;
+            background: white;
+            border: black solid 2px;
+            border-radius: 15px;
+        }
+
+        .i {
+            width: 500px;
+            height: 50px;
+            background: silver;
+            text-align: center;
+            padding: 20px;
+        }
+        .b{
+            flex-direction:row ;
+        }
+
+        .ii {
+            width: 350px;
+            height: 450px;
+            background: silver;
+            text-align: center;
+            padding: 20px;
+        }
+
+        .iii {
+            width: 100px;
+            height: 450px;
+            background: silver;
+            text-align: center;
+            padding: 20px;
+        }
+    </style>
+</head>
+<body>
+<div id="box">
+    <div id="a">
+        <div class="i">A</div>
+        <div class="b">
+            <div class="ii">B</div>
+            <div class="iii">C</div>
+        </div>
+    </div>
+</div>
+</body>
+</html>
