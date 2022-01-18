@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a8c9d227-6797-40ed-873b-7abe2d1805bf" name="Changes" comment="add cw4">
-      <change afterPath="$PROJECT_DIR$/lesson 2/cw1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson 4/cw4-1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson 4/main.css" afterDir="false" />
+    <list default="true" id="a8c9d227-6797-40ed-873b-7abe2d1805bf" name="Changes" comment="add cw1">
+      <change afterPath="$PROJECT_DIR$/lesson 2/cw2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,7 +58,7 @@
       <workItem from="1642341089563" duration="11000" />
       <workItem from="1642420198825" duration="22112000" />
       <workItem from="1642503323248" duration="8217000" />
-      <workItem from="1642519274156" duration="912000" />
+      <workItem from="1642519274156" duration="2498000" />
     </task>
     <task id="LOCAL-00001" summary="add hm2(1)">
       <created>1642073274103</created>
@@ -153,7 +151,14 @@
       <option name="project" value="LOCAL" />
       <updated>1642505486743</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="add cw1">
+      <created>1642520330109</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1642520330109</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -181,6 +186,7 @@
     <MESSAGE value="add cw++" />
     <MESSAGE value="add hm4" />
     <MESSAGE value="add cw4" />
-    <option name="LAST_COMMIT_MESSAGE" value="add cw4" />
+    <MESSAGE value="add cw1" />
+    <option name="LAST_COMMIT_MESSAGE" value="add cw1" />
   </component>
 </project>
