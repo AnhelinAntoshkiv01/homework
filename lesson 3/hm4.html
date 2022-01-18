@@ -6,67 +6,185 @@
     <title>box</title>
     <style>
         #wrap {
-            width: 800px;
+            width: 1300px;
             height: 600px;
-            box-sizing: border-box;
             display: flex;
             justify-content: center;
             background: darkseagreen;
-            margin-left: 600px;
-            margin-top: 200px;
+            margin-top: 150px;
+            margin-left: 300px;
         }
-        .a{
-            width: 200px;
+
+        .a {
+            width: 600px;
             height: 100px;
             box-sizing: border-box;
+            border-radius: 20px;
             background: white;
             display: flex;
+            margin-bottom: 20px;
+            margin-top: 20px;
+        }
+
+        .b {
+            width: 600px;
+            height: 100px;
+            box-sizing: border-box;
+            border-radius: 20px;
+            background: white;
+            display: flex;
+            margin-bottom: 20px;
+        }
+
+        .c {
+            width: 600px;
+            height: 100px;
+            box-sizing: border-box;
+            border-radius: 20px;
+            background: white;
+            display: flex;
+            margin-bottom: 20px;
+        }
+        #one{
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+
+        .d {
+            width: 600px;
+            height: 100px;
+            box-sizing: border-box;
+            border-radius: 20px;
+            background: white;
+            display: flex;
+            margin-bottom: 20px;
+            margin-left: 20px;
+            margin-top: 20px;
+        }
+
+        .e {
+            width: 600px;
+            height: 100px;
+            box-sizing: border-box;
+            border-radius: 20px;
+            background: white;
+            display: flex;
+            margin-bottom: 20px;
+            margin-left: 20px;
+        }
+
+        .f {
+            width: 600px;
+            height: 100px;
+            box-sizing: border-box;
+            border-radius: 20px;
+            background: white;
+            display: flex;
+            margin-bottom: 20px;
+            margin-left: 20px;
+        }
+        #two{
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+
+        .a > i {
+            font-size: 50px;
+            justify-content: center;
+            margin-left: 25px;
+            margin-right: 20px;
+            margin-top: 20px;
+        }
+
+        .b > i {
+            font-size: 50px;
+            justify-content: center;
+            margin-left: 25px;
+            margin-right: 20px;
+            margin-top: 20px;
+        }
+
+        .c > i {
+            font-size: 50px;
+            justify-content: center;
+            margin-left: 25px;
+            margin-right: 20px;
+            margin-top: 20px;
+        }
+
+        .d > i {
+            font-size: 50px;
+            justify-content: center;
+            margin-left: 25px;
+            margin-right: 20px;
+            margin-top: 20px;
+        }
+
+        .e > i {
+            font-size: 50px;
+            justify-content: center;
+            margin-left: 25px;
+            margin-right: 20px;
+            margin-top: 20px;
+        }
+
+        .f > i {
+            font-size: 50px;
+            justify-content: center;
+            margin-left: 25px;
+            margin-right: 20px;
+            margin-top: 20px;
         }
     </style>
 </head>
 <body>
 <div id="wrap">
-    <div class="a">
-        <i class="fas fa-palette"></i>
-        <h1>Web Designing</h1>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi autem blanditiis cumque dolores eos est
-            explicabo, iusto laboriosam maxime nesciunt provident repellat, reprehenderit sed temporibus tenetur
-            veritatis voluptates voluptatibus voluptatum?</p>
+    <div id="one">
+        <div class="a">
+            <i class="fas fa-palette"></i>
+            <div><h3>Web Designing</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi autem blanditiis cumque dolores eos
+                    est
+                    explicabo?</p></div>
+        </div>
+        <div class="b">
+            <i class="far fa-code"></i>
+            <div><h3>Web Development</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet animi blanditiis dolore eaque earum
+                    harum itaque, non officiis pariatur placeat porro, sed vero?</p></div>
+        </div>
+        <div class="c">
+            <i class="fas fa-server"></i>
+            <div><h3>Conversion Services</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci libero modi voluptatibus!
+                    Accusantium
+                    cupiditate esse exercitationem facilis.</p></div>
+        </div>
     </div>
-    <div class="b">
-        <i class="far fa-code"></i>
-        <h1>Web Development</h1>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. At consectetur impedit itaque possimus totam! Amet
-            animi blanditiis dolore eaque earum harum itaque, non officiis pariatur placeat porro, sed vero?
-            Adipisci?</p>
-    </div>
-    <div class="c">
-        <i class="fas fa-server"></i>
-        <h1>Conversion Services</h1>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci libero modi voluptatibus! Accusantium
-            cupiditate esse exercitationem facilis, harum, impedit magnam obcaecati officia placeat praesentium
-            provident quasi quis, ratione recusandae temporibus.</p>
-    </div>
-    <div class="d">
-        <i class="fab fa-wordpress"></i>
-        <h1>WordPress Development</h1>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti incidunt numquam obcaecati vitae. Ad
-            architecto deleniti dolor dolorem doloremque facere illo obcaecati omnis porro quod repudiandae, similique,
-            soluta voluptas voluptate?</p>
-    </div>
-    <div class="e">
-        <i class="fas fa-id-card"></i>
-        <h1>Logo & Identity Designs</h1>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi atque autem consectetur deserunt eaque, eum
-            iusto magnam, mollitia nulla optio praesentium quia voluptas. Alias cupiditate deserunt ea eligendi illo
-            magnam.</p>
-    </div>
-    <div class="f">
-        <i class="fab fa-buysellads"></i>
-        <h1>Social Media & Ads Designs</h1>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A consequuntur delectus dicta ea excepturi iste
-            iusto libero, maxime mollitia possimus repudiandae rerum sed suscipit tempore velit, voluptate voluptatibus.
-            Nobis, unde.</p>
+    <div id="two">
+        <div class="d">
+            <i class="fab fa-wordpress"></i>
+            <div><h3>WordPress Development</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A animi corporis eaque et explicabo hic
+                    iusto
+                    labore officia sint voluptas!</p></div>
+        </div>
+        <div class="e">
+            <i class="fas fa-id-card"></i>
+            <div><h3>Logo & Identity Designs</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A animi corporis eaque et explicabo hic
+                    iusto
+                    labore officia sint voluptas!</p></div>
+        </div>
+        <div class="f">
+            <i class="fab fa-buysellads"></i>
+            <div><h3>Social Media & Ads Designs</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A animi corporis eaque et explicabo hic
+                    iusto
+                    labore officia sint voluptas!</p></div>
+        </div>
     </div>
 </div>
 </body>
