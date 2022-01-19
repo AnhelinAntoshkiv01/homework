@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a8c9d227-6797-40ed-873b-7abe2d1805bf" name="Changes" comment="add cw4-2">
-      <change afterPath="$PROJECT_DIR$/lesson 4/by.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson 4/hm4.html" afterDir="false" />
+    <list default="true" id="a8c9d227-6797-40ed-873b-7abe2d1805bf" name="Changes" comment="add hm4">
+      <change afterPath="$PROJECT_DIR$/lesson 4/hm4-2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson 4/way.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson 3/hm2(2).html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson 3/hm2(2).html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +61,7 @@
       <workItem from="1642420198825" duration="22112000" />
       <workItem from="1642503323248" duration="8217000" />
       <workItem from="1642519274156" duration="2733000" />
-      <workItem from="1642594787576" duration="15806000" />
+      <workItem from="1642594787576" duration="17090000" />
     </task>
     <task id="LOCAL-00001" summary="add hm2(1)">
       <created>1642073274103</created>
@@ -195,7 +196,14 @@
       <option name="project" value="LOCAL" />
       <updated>1642609862582</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="add hm4">
+      <created>1642610867288</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1642610867288</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -220,7 +228,6 @@
     <MESSAGE value="add cw6" />
     <MESSAGE value="add cw+" />
     <MESSAGE value="add cw++" />
-    <MESSAGE value="add hm4" />
     <MESSAGE value="add cw4" />
     <MESSAGE value="add cw1" />
     <MESSAGE value="add cw2" />
@@ -228,6 +235,7 @@
     <MESSAGE value="add cw4-1" />
     <MESSAGE value="change margin in cw4-1" />
     <MESSAGE value="add cw4-2" />
-    <option name="LAST_COMMIT_MESSAGE" value="add cw4-2" />
+    <MESSAGE value="add hm4" />
+    <option name="LAST_COMMIT_MESSAGE" value="add hm4" />
   </component>
 </project>
