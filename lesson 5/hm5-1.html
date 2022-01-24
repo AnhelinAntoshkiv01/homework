@@ -1,0 +1,429 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        .w50 {
+            width: 50px;
+            margin: 8px;
+            background: black;
+            color: white;
+            text-align: center;
+        }
+
+        .ww50 {
+            width: 50px;
+            margin: 8px;
+            background: black;
+            color: white;
+            text-align: center;
+        }
+
+        .xw50 {
+            width: 50px;
+            margin: 8px;
+            background: black;
+            color: white;
+            text-align: center;
+        }
+
+        .w200 {
+            width: 200px;
+            margin-bottom: 8px;
+            background: black;
+            color: white;
+            text-align: center;
+        }
+
+        .ww200 {
+            width: 200px;
+            margin-bottom: 8px;
+            background: black;
+            color: white;
+            text-align: center;
+        }
+
+        .w257 {
+            width: 257px;
+            margin-top: 8px;
+            margin-bottom: 8px;
+            background: black;
+            color: white;
+            text-align: center;
+        }
+
+        .w315 {
+            width: 315px;
+            margin-left: 8px;
+            background: black;
+            color: white;
+            text-align: center;
+        }
+
+        .h50 {
+            height: 50px;
+            padding-top: 10px;
+        }
+
+        .h100 {
+            height: 100px;
+        }
+
+        .h200 {
+            height: 200px;
+        }
+
+        .hh200 {
+            height: 200px;
+        }
+
+        .bs {
+            box-sizing: border-box;
+        }
+
+        .pt {
+            padding-top: 40px;
+        }
+
+        .mt {
+            margin-top: 8px;
+        }
+
+        .round {
+            width: 30px;
+            height: 30px;
+            border-radius: 50%;
+            background: transparent;
+            color: crimson;
+            text-align: center;
+            position: relative;
+            top: -5px;
+            margin-left: 8px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        .rounds {
+            width: 30px;
+            height: 30px;
+            border-radius: 50%;
+            background: transparent;
+            color: crimson;
+            text-align: center;
+            position: relative;
+            top: -5px;
+            margin-left: 8px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .round2 {
+            width: 30px;
+            height: 30px;
+            border-radius: 50%;
+            background: transparent;
+            color: crimson;
+            text-align: center;
+            position: relative;
+            top: -5px;
+            margin-left: 100px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .round3 {
+            width: 30px;
+            height: 30px;
+            border-radius: 50%;
+            background: transparent;
+            color: crimson;
+            text-align: center;
+            position: relative;
+            top: -5px;
+            margin-left: 140px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        .round4 {
+            width: 30px;
+            height: 30px;
+            border-radius: 50%;
+            background: transparent;
+            color: crimson;
+            text-align: center;
+            position: relative;
+            top: -5px;
+            margin-left: 8px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .q {
+            display: flex;
+        }
+
+        .r {
+            display: block;
+        }
+
+        .w {
+            display: flex;
+        }
+
+        .y {
+            display: block;
+        }
+
+        .e {
+            display: flex;
+        }
+
+        .t {
+            display: flex;
+        }
+
+        @media screen and (max-width: 992px) {
+            .w50 {
+                width: 200px;
+                margin: 8px;
+                background: black;
+                color: white;
+                text-align: center;
+            }
+
+            .ww50 {
+                width: 50px;
+                margin: 8px 0 8px 8px;
+                background: black;
+                color: white;
+                text-align: center;
+                border-right: white solid 1px;
+            }
+
+            .xw50 {
+                width: 92px;
+                margin: 8px;
+                background: black;
+                color: white;
+                text-align: center;
+            }
+
+            .w200 {
+                width: 142px;
+                margin-bottom: 8px;
+                background: black;
+                color: white;
+                text-align: center;
+            }
+
+            .ww200 {
+                width: 200px;
+                margin-bottom: 8px;
+                background: black;
+                color: white;
+                text-align: center;
+            }
+
+            .w257 {
+                width: 150px;
+                margin-top: 8px;
+                margin-bottom: 8px;
+                background: black;
+                color: white;
+                text-align: center;
+            }
+
+            .w315 {
+                width: 200px;
+                margin-left: 8px;
+                background: black;
+                color: white;
+                text-align: center;
+            }
+
+            .h50 {
+                height: 50px;
+                padding-top: 10px;
+            }
+
+            .h100 {
+                height: 80px;
+            }
+
+            .h200 {
+                height: 100px;
+            }
+
+            .hh200 {
+                height: 300px;
+            }
+
+            .bs {
+                box-sizing: border-box;
+            }
+
+            .pt {
+                padding-top: 40px;
+            }
+
+            .mt {
+                margin-top: 8px;
+                margin-left: 8px;
+            }
+
+            .round {
+                width: 30px;
+                height: 30px;
+                border-radius: 50%;
+                background: transparent;
+                color: crimson;
+                text-align: center;
+                position: relative;
+                top: -5px;
+                margin-left: 8px;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+            }
+            .rounds {
+                width: 30px;
+                height: 30px;
+                border-radius: 50%;
+                background: transparent;
+                color: crimson;
+                text-align: center;
+                position: relative;
+                top: -5px;
+                margin-left: 80px;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+            }
+
+            .round2 {
+                width: 30px;
+                height: 30px;
+                border-radius: 50%;
+                background: transparent;
+                color: crimson;
+                text-align: center;
+                position: relative;
+                top: -5px;
+                margin-left: 70px;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+            }
+
+            .round3 {
+                width: 30px;
+                height: 30px;
+                border-radius: 50%;
+                background: transparent;
+                color: crimson;
+                text-align: center;
+                position: relative;
+                top: -5px;
+                margin-left: 85px;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+            }
+            .round4 {
+                width: 30px;
+                height: 30px;
+                border-radius: 50%;
+                background: transparent;
+                color: crimson;
+                text-align: center;
+                position: relative;
+                top: -5px;
+                margin-left: 30px;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+            }
+
+            .q {
+                display: flex;
+            }
+
+            .r {
+                display: block;
+            }
+            .c {
+                display: flex;
+            }
+
+            .w {
+                display: block;
+            }
+
+            .y {
+                display: block;
+            }
+
+            .e {
+                display: flex;
+            }
+
+            .t {
+                display: block;
+            }
+        }
+    </style>
+</head>
+<body>
+<div class="q">
+    <div class="h50 ww50 bs">Logo
+        <div class="round">1</div>
+    </div>
+    <div class="h50 w257 bs">Header
+        <div class="round2">2</div>
+    </div>
+</div>
+<div class="w">
+    <div class="r">
+        <div class="h200 w50 bs pt">Nav
+            <div class="rounds">3</div>
+        </div>
+        <div class="c">
+            <div class="h50 xw50 bs">Store
+                <div class="round4">8</div>
+            </div>
+            <div class="h50 xw50 bs">Tools
+                <div class="round4">9</div>
+            </div>
+        </div>
+    </div>
+    <div class="y">
+        <div class="e">
+            <div class="h100 w200 bs pt mt">Bath section intro
+                <div class="round2">4</div>
+            </div>
+            <div class="h100 ww50 bs pt">Ad
+                <div class="round">5</div>
+            </div>
+        </div>
+        <div class="t">
+            <div class="hh200 ww200 bs pt mt">Type of baths
+                <div class="round2">6</div>
+            </div>
+            <div class="h200 w50 bs pt">Realeted products
+                <div class="rounds">7</div>
+            </div>
+        </div>
+    </div>
+
+</div>
+<div class="h50 w315 bs">Footer
+    <div class="round3">10</div>
+</div>
+
+</body>
+</html>
