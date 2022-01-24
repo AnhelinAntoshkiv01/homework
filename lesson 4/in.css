@@ -184,8 +184,6 @@
 }
 #ty{
     display: flex;
-    flex-direction: row;
-    justify-content: space-evenly;
 }
 .n{
     display: flex;
@@ -200,3 +198,4 @@
     display: flex;
     justify-content: center;
 }
+

@@ -1,0 +1,709 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Title</title>
+    <style>
+        body {
+            margin: 0;
+            background: salmon;
+            padding: 20px;
+        }
+
+        .h1000 {
+            height: 1000px;
+        }
+
+        .w180 {
+            width: 180px;
+            background: silver;
+            margin: 2px;
+        }
+
+        .w400 {
+            width: 400px;
+        }
+
+        .w50 {
+            width: 50px;
+        }
+
+        .ww50 {
+            width: 50px;
+        }
+
+        .w346 {
+            width: 346px;
+        }
+
+        .w30 {
+            width: 30px;
+            background: silver;
+            margin: 2px;
+        }
+
+        .w330 {
+            width: 330px;
+            background: silver;
+            margin-top: -7px;
+            margin-left: 8px;
+        }
+
+        .w300 {
+            width: 300px;
+        }
+
+        .w80 {
+            width: 80px;
+            background: silver;
+            margin: 10px;
+        }
+
+        .ww30 {
+            width: 30px;
+            background: silver;
+            margin: 2px;
+        }
+
+        .hh20 {
+            height: 20px;
+        }
+
+        .h10 {
+            height: 10px;
+        }
+
+        .h20 {
+            height: 20px;
+            justify-content: center;
+        }
+
+        .h40 {
+            height: 40px;
+            display: flex;
+        }
+
+        .h50 {
+            height: 50px;
+        }
+
+        .h150 {
+            height: 150px;
+        }
+
+        .h300 {
+            height: 300px;
+        }
+
+        .h596 {
+            height: 596px;
+        }
+
+        .h184 {
+            height: 184px;
+        }
+
+        .round {
+            height: 20px;
+            width: 30px;
+            border-radius: 50%;
+            background: black;
+            color: white;
+            text-align: center;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .p1 {
+            position: relative;
+            margin-left: 170px;
+            top: -15px;
+            margin-top: 0;
+            margin-bottom: 0;
+        }
+
+        .p2 {
+            position: relative;
+            margin-left: 10px;
+            top: -12px;
+            margin-top: 0;
+            margin-bottom: 0;
+        }
+        .pp2 {
+            position: relative;
+            margin-left: 10px;
+            top: -12px;
+            margin-top: 0;
+            margin-bottom: 0;
+        }
+
+        .p3 {
+            position: relative;
+            margin-left: 150px;
+            top: -15px;
+            margin-top: 0;
+            margin-bottom: 0;
+        }
+
+        .ml {
+            margin-left: 80px;
+        }
+
+        .border {
+            border: 2px solid black;
+            background: white;
+        }
+
+        .border1 {
+            border: 2px solid black;
+            background: white;
+        }
+
+        .bs {
+            box-sizing: border-box;
+        }
+
+        .h580 > div {
+            margin-left: 10px;
+        }
+
+        .o {
+            display: block;
+        }
+
+        .p {
+            display: flex;
+        }
+
+        #ty {
+            justify-content: flex-start;
+            margin-left: 20px;
+        }
+
+        .a {
+            display: flex;
+            justify-content: space-between;
+            margin-top: -18px;
+            margin-left: 20px;
+            margin-right: 20px;
+        }
+
+        .b {
+            display: block;
+            justify-content: center;
+            margin-left: 6px;
+            margin-top: 10px;
+        }
+
+        .m {
+            display: flex;
+            justify-content: space-between;
+            margin-top: -18px;
+        }
+
+        .k {
+            display: block;
+            justify-content: center;
+            margin-top: -15px;
+        }
+
+        .n {
+            display: flex;
+            flex-wrap: wrap;
+            margin-left: 50px;
+            margin-right: 15px;
+        }
+
+        .f {
+            display: flex;
+        }
+
+        @media screen and (max-width: 992px) {
+            .f {
+                display: flex;
+            }
+
+            .b {
+                display: block;
+                justify-content: center;
+                margin-left: -35px;
+            }
+
+            .h20 {
+                height: 10px;
+            }
+
+            .w180 {
+                width: 50px;
+                background: silver;
+                margin-left: 75px;
+            }
+
+            .w400 {
+                width: 200px;
+            }
+
+            .w50 {
+                width: 204px;
+            }
+
+            .w346 {
+                width: 200px;
+            }
+
+            .w30 {
+                width: 30px;
+                background: silver;
+                margin: 2px;
+            }
+
+            .w330 {
+                width: 180px;
+                background: silver;
+                margin-left: 8px;
+            }
+
+            .w300 {
+                width: 204px;
+            }
+
+            .w80 {
+                width: 70px;
+                background: silver;
+                margin: 10px;
+            }
+
+            .ww50 {
+                width: 50px;
+            }
+
+            .ww30 {
+                width: 80px;
+                background: silver;
+                margin: 10px;
+            }
+
+            .hh20 {
+                height: 30px;
+                justify-content: center;
+                margin-left: 50px;
+            }
+
+            .h10 {
+                height: 5px;
+            }
+
+            .h20 {
+                height: 20px;
+                justify-content: center;
+            }
+
+            .h40 {
+                height: 40px;
+                display: flex;
+            }
+
+            .h50 {
+                height: 50px;
+            }
+
+            .h150 {
+                height: 130px;
+            }
+
+            .h300 {
+                height: 200px;
+            }
+
+            .h596 {
+                height: 100px;
+            }
+
+            .h184 {
+                height: 150px;
+            }
+
+            .o {
+                display: block;
+                flex-direction: column;
+            }
+
+            .p {
+                display: block;
+            }
+
+            .round {
+                height: 20px;
+                width: 30px;
+                border-radius: 50%;
+                background: black;
+                color: white;
+                text-align: center;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+            }
+
+            .p1 {
+                position: relative;
+                margin-left: 80px;
+                top: -15px;
+                margin-top: 0;
+                margin-bottom: 0;
+            }
+
+            .p2 {
+                position: relative;
+                margin-left: 80px;
+                top: -12px;
+                margin-top: 0;
+                margin-bottom: 0;
+            }
+            .pp2 {
+                position: relative;
+                margin-left: 10px;
+                top: -12px;
+                margin-top: 0;
+                margin-bottom: 0;
+            }
+
+            .p3 {
+                position: relative;
+                margin-left: 80px;
+                top: -15px;
+                margin-top: 0;
+                margin-bottom: 0;
+            }
+
+            .border1 {
+                border: 2px dashed black;
+                background: white;
+                display: block;
+            }
+
+            .a {
+                display: flex;
+                justify-content: space-between;
+                margin-top: -18px;
+                margin-left: 20px;
+                margin-right: 20px;
+            }
+
+            .b {
+                display: block;
+                justify-content: center;
+                margin-left: 6px;
+                margin-top: 10px;
+            }
+
+            .m {
+                display: flex;
+                justify-content: space-between;
+                margin-top: -18px;
+            }
+
+            .k {
+                display: block;
+                justify-content: center;
+                margin-top: -15px;
+            }
+
+            .n {
+                display: flex;
+                margin-left: 5px;
+                margin-right: 5px;
+                margin-top: -15px;
+            }
+        }
+        @media screen and (max-width: 576px) {
+            .f {
+                display: flex;
+            }
+
+            .b {
+                display: block;
+                justify-content: center;
+                margin-left: -35px;
+            }
+
+            .h20 {
+                height: 10px;
+            }
+
+            .w180 {
+                width: 50px;
+                background: silver;
+                margin-left: 50px;
+            }
+
+            .w400 {
+                width: 150px;
+            }
+
+            .w50 {
+                width: 154px;
+            }
+
+            .w346 {
+                width: 150px;
+            }
+
+            .w30 {
+                width: 30px;
+                background: silver;
+                margin: 2px;
+            }
+
+            .w330 {
+                width: 130px;
+                background: silver;
+                margin-left: 10px;
+                margin-top: -10px;
+            }
+
+            .w300 {
+                width: 154px;
+            }
+
+            .w80 {
+                width: 50px;
+                background: silver;
+                margin: 10px;
+            }
+
+            .ww50 {
+                width: 50px;
+            }
+
+            .ww30 {
+                width: 125px;
+                background: silver;
+                margin: 10px;
+            }
+
+            .hh20 {
+                height: 30px;
+                justify-content: center;
+                margin-left: 5px;
+            }
+
+            .h10 {
+                height: 5px;
+            }
+
+            .h20 {
+                height: 20px;
+                justify-content: center;
+            }
+
+            .h40 {
+                height: 40px;
+                display: flex;
+            }
+
+            .h50 {
+                height: 50px;
+            }
+
+            .h150 {
+                height: 130px;
+            }
+
+            .h300 {
+                height: 200px;
+            }
+
+            .h596 {
+                height: 100px;
+            }
+
+            .h184 {
+                height: 150px;
+            }
+
+            .o {
+                display: block;
+                flex-direction: column;
+            }
+
+            .p {
+                display: block;
+            }
+
+            .round {
+                height: 20px;
+                width: 30px;
+                border-radius: 50%;
+                background: black;
+                color: white;
+                text-align: center;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+            }
+
+            .p1 {
+                position: relative;
+                margin-left: 60px;
+                top: -15px;
+                margin-top: 0;
+                margin-bottom: 0;
+            }
+
+            .p2 {
+                position: relative;
+                margin-left: 60px;
+                top: -12px;
+                margin-top: 0;
+                margin-bottom: 0;
+            }
+            .pp2 {
+                position: relative;
+                margin-left: 10px;
+                top: -12px;
+                margin-top: 0;
+                margin-bottom: 0;
+            }
+
+            .p3 {
+                position: relative;
+                margin-left: 60px;
+                top: -15px;
+                margin-top: 0;
+                margin-bottom: 0;
+            }
+
+            .border1 {
+                border: 2px dashed black;
+                background: white;
+                display: block;
+            }
+
+            .a {
+                display: flex;
+                justify-content: space-between;
+                margin-top: -18px;
+                margin-left: 10px;
+                margin-right: 10px;
+            }
+
+            .b {
+                display: block;
+                justify-content: center;
+                margin-left: 6px;
+                margin-top: 15px;
+            }
+
+            .m {
+                display: flex;
+                justify-content: space-between;
+                margin-top: -18px;
+            }
+
+            .k {
+                display: block;
+                justify-content: center;
+                margin-top: -15px;
+            }
+
+            .n {
+                display: flex;
+                margin-left: 5px;
+                margin-right: 5px;
+                margin-top: 12px;
+            }
+            .n:nth-child(2n){
+                display: none;
+            }
+            .b>div:nth-child(4){
+                display: none;
+            }
+
+        }
+
+    </style>
+</head>
+<body>
+<div class="h1000">
+
+    <div id="ty">
+        <div class="h20 w400 border bs">
+            <div class="round p1">1</div>
+            <div class="m">
+                <div class="h10 w30 "></div>
+                <div class="h10 w30 "></div>
+            </div>
+        </div>
+        <div class="f">
+            <div class="h596 ww50 border1 bs">
+                <div class="round pp2">2</div>
+                <div class="b">
+                    <div class="h20 w30 "></div>
+                    <div class="h20 w30 "></div>
+                    <div class="h20 w30 "></div>
+                    <div class="h20 w30 "></div>
+                </div>
+            </div>
+            <div class="o">
+                <div class="h184 w346 border">
+                    <div class="round p1">3</div>
+                    <div class="h150 w330"></div>
+                </div>
+                <div class="h50 w346 border">
+                    <div class="round p1">4</div>
+                    <div class="a">
+                        <div class="h40 w30"></div>
+                        <div class="h40 w30"></div>
+                        <div class="h40 w30"></div>
+                        <div class="h40 w30"></div>
+                    </div>
+                </div>
+                <div class="p">
+                    <div class="h300 w300 border bs">
+                        <div class="round p3">5</div>
+                        <div id="er">
+                            <div class="n">
+                                <div class="h40 w80"></div>
+                                <div class="h40 w80"></div>
+                            </div>
+                            <div class="n">
+                                <div class="h40 w80"></div>
+                                <div class="h40 w80"></div>
+                            </div>
+                            <div class="n">
+                                <div class="h40 w80"></div>
+                                <div class="h40 w80"></div>
+                            </div>
+                            <div class="n">
+                                <div class="h40 w80"></div>
+                                <div class="h40 w80"></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="h300 w50 border bs">
+                        <div class="round p2">6</div>
+                        <div class="b">
+                            <div class="hh20 ww30 "></div>
+                            <div class="hh20 ww30 "></div>
+                            <div class="hh20 ww30 "></div>
+                            <div class="hh20 ww30 "></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="h50 w346 border">
+                    <div class="round p1">7</div>
+                    <div class="k">
+                        <div class="h20 w330"></div>
+                        <div class="h20 w180 ml"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</body>
+</html>
