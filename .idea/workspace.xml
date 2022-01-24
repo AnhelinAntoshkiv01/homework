@@ -4,13 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a8c9d227-6797-40ed-873b-7abe2d1805bf" name="Changes" comment="add hm5-2">
-      <change afterPath="$PROJECT_DIR$/lesson 4/cw4-.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson 4/to.css" afterDir="false" />
+    <list default="true" id="a8c9d227-6797-40ed-873b-7abe2d1805bf" name="Changes" comment="delete block 2 in cw5">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson 4/cw4-.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson 4/cw4-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson 4/cw4-1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lesson 4/cw4-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson 4/cw4-2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson 4/in.css" beforeDir="false" afterPath="$PROJECT_DIR$/lesson 4/in.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson 5/cw5.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson 5/cw5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson 4/in.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson 4/to.css" beforeDir="false" afterPath="$PROJECT_DIR$/lesson 4/to.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +65,7 @@
       <workItem from="1642519274156" duration="2733000" />
       <workItem from="1642594787576" duration="17212000" />
       <workItem from="1642763607226" duration="6417000" />
-      <workItem from="1643015377167" duration="23561000" />
+      <workItem from="1643015377167" duration="30091000" />
     </task>
     <task id="LOCAL-00001" summary="add hm2(1)">
       <created>1642073274103</created>
@@ -235,7 +235,14 @@
       <option name="project" value="LOCAL" />
       <updated>1643037871916</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="delete block 2 in cw5">
+      <created>1643039332495</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1643039332495</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -272,6 +279,7 @@
     <MESSAGE value="add cw5" />
     <MESSAGE value="add hm5-1" />
     <MESSAGE value="add hm5-2" />
-    <option name="LAST_COMMIT_MESSAGE" value="add hm5-2" />
+    <MESSAGE value="delete block 2 in cw5" />
+    <option name="LAST_COMMIT_MESSAGE" value="delete block 2 in cw5" />
   </component>
 </project>
