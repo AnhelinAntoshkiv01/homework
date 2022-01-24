@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a8c9d227-6797-40ed-873b-7abe2d1805bf" name="Changes" comment="add cw5">
-      <change afterPath="$PROJECT_DIR$/lesson 5/hm5-1.html" afterDir="false" />
+    <list default="true" id="a8c9d227-6797-40ed-873b-7abe2d1805bf" name="Changes" comment="add hm5-1">
+      <change afterPath="$PROJECT_DIR$/lesson 5/hm5-2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson 5/hm5-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson 5/hm5-1.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +62,7 @@
       <workItem from="1642519274156" duration="2733000" />
       <workItem from="1642594787576" duration="17212000" />
       <workItem from="1642763607226" duration="6417000" />
-      <workItem from="1643015377167" duration="18942000" />
+      <workItem from="1643015377167" duration="22137000" />
     </task>
     <task id="LOCAL-00001" summary="add hm2(1)">
       <created>1642073274103</created>
@@ -217,7 +218,14 @@
       <option name="project" value="LOCAL" />
       <updated>1643027576315</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="add hm5-1">
+      <created>1643034573677</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1643034573677</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -252,6 +260,7 @@
     <MESSAGE value="add hm4" />
     <MESSAGE value="add hm4-2" />
     <MESSAGE value="add cw5" />
-    <option name="LAST_COMMIT_MESSAGE" value="add cw5" />
+    <MESSAGE value="add hm5-1" />
+    <option name="LAST_COMMIT_MESSAGE" value="add hm5-1" />
   </component>
 </project>
