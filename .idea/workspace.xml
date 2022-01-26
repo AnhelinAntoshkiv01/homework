@@ -4,13 +4,51 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a8c9d227-6797-40ed-873b-7abe2d1805bf" name="Changes" comment="delete block 2 in cw5">
+    <list default="true" id="a8c9d227-6797-40ed-873b-7abe2d1805bf" name="Changes" comment="change cw4-2 in lesson4">
+      <change afterPath="$PROJECT_DIR$/Project HTML/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project HTML/image/Adobe.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project HTML/image/App Annie.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project HTML/image/Background App.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project HTML/image/Beyound Pricing.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project HTML/image/Code_cademy.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project HTML/image/Dropbox.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project HTML/image/Ironclad.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project HTML/image/Logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project HTML/image/Opendoor.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project HTML/image/Shift.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project HTML/image/Surfline.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project HTML/image/Vector.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project HTML/image/Vector2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project HTML/image/Vector3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project HTML/image/Vector4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project HTML/image/arrow down.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project HTML/image/arrow up.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project HTML/image/arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project HTML/image/chipper.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project HTML/image/ease.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project HTML/image/facebook.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project HTML/image/feature.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project HTML/image/in.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project HTML/image/invoice2go.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project HTML/image/loom.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project HTML/image/pass photo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project HTML/image/proguides.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project HTML/image/quotes.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project HTML/image/share.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project HTML/image/sms screen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project HTML/image/sms.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project HTML/image/spriglogo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project HTML/image/square.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project HTML/image/statistics.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project HTML/image/target.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project HTML/image/test screen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project HTML/image/test.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project HTML/image/twitter.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project HTML/image/vector group- bicekle img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project HTML/image/video screen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project HTML/image/video.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project HTML/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson 4/cw4-.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson 4/cw4-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson 4/cw4-1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson 4/cw4-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson 4/cw4-2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson 4/in.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson 4/to.css" beforeDir="false" afterPath="$PROJECT_DIR$/lesson 4/to.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,11 +59,20 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -45,10 +92,16 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Antos\IdeaProjects\homework\Project HTML\image" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -65,7 +118,8 @@
       <workItem from="1642519274156" duration="2733000" />
       <workItem from="1642594787576" duration="17212000" />
       <workItem from="1642763607226" duration="6417000" />
-      <workItem from="1643015377167" duration="30091000" />
+      <workItem from="1643015377167" duration="30149000" />
+      <workItem from="1643189140498" duration="50609000" />
     </task>
     <task id="LOCAL-00001" summary="add hm2(1)">
       <created>1642073274103</created>
@@ -242,7 +296,14 @@
       <option name="project" value="LOCAL" />
       <updated>1643039332495</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="change cw4-2 in lesson4">
+      <created>1643045892811</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1643045892811</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -280,6 +341,7 @@
     <MESSAGE value="add hm5-1" />
     <MESSAGE value="add hm5-2" />
     <MESSAGE value="delete block 2 in cw5" />
-    <option name="LAST_COMMIT_MESSAGE" value="delete block 2 in cw5" />
+    <MESSAGE value="change cw4-2 in lesson4" />
+    <option name="LAST_COMMIT_MESSAGE" value="change cw4-2 in lesson4" />
   </component>
 </project>
