@@ -4,51 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a8c9d227-6797-40ed-873b-7abe2d1805bf" name="Changes" comment="change cw4-2 in lesson4">
-      <change afterPath="$PROJECT_DIR$/Project HTML/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project HTML/image/Adobe.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project HTML/image/App Annie.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project HTML/image/Background App.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project HTML/image/Beyound Pricing.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project HTML/image/Code_cademy.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project HTML/image/Dropbox.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project HTML/image/Ironclad.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project HTML/image/Logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project HTML/image/Opendoor.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project HTML/image/Shift.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project HTML/image/Surfline.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project HTML/image/Vector.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project HTML/image/Vector2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project HTML/image/Vector3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project HTML/image/Vector4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project HTML/image/arrow down.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project HTML/image/arrow up.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project HTML/image/arrow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project HTML/image/chipper.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project HTML/image/ease.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project HTML/image/facebook.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project HTML/image/feature.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project HTML/image/in.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project HTML/image/invoice2go.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project HTML/image/loom.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project HTML/image/pass photo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project HTML/image/proguides.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project HTML/image/quotes.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project HTML/image/share.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project HTML/image/sms screen.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project HTML/image/sms.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project HTML/image/spriglogo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project HTML/image/square.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project HTML/image/statistics.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project HTML/image/target.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project HTML/image/test screen.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project HTML/image/test.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project HTML/image/twitter.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project HTML/image/vector group- bicekle img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project HTML/image/video screen.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project HTML/image/video.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project HTML/index.html" afterDir="false" />
+    <list default="true" id="a8c9d227-6797-40ed-873b-7abe2d1805bf" name="Changes" comment="add Project HTML">
+      <change afterPath="$PROJECT_DIR$/Project HTML/css/mobile.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project HTML/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Project HTML/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project HTML/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Project HTML/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,7 +79,9 @@
       <workItem from="1642594787576" duration="17212000" />
       <workItem from="1642763607226" duration="6417000" />
       <workItem from="1643015377167" duration="30149000" />
-      <workItem from="1643189140498" duration="50609000" />
+      <workItem from="1643189140498" duration="50737000" />
+      <workItem from="1643294978346" duration="927000" />
+      <workItem from="1643546980003" duration="11549000" />
     </task>
     <task id="LOCAL-00001" summary="add hm2(1)">
       <created>1642073274103</created>
@@ -303,7 +265,14 @@
       <option name="project" value="LOCAL" />
       <updated>1643045892811</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="add Project HTML">
+      <created>1643240794192</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1643240794192</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -342,6 +311,7 @@
     <MESSAGE value="add hm5-2" />
     <MESSAGE value="delete block 2 in cw5" />
     <MESSAGE value="change cw4-2 in lesson4" />
-    <option name="LAST_COMMIT_MESSAGE" value="change cw4-2 in lesson4" />
+    <MESSAGE value="add Project HTML" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Project HTML" />
   </component>
 </project>
